@@ -2,6 +2,7 @@ Basilisk 52 27
 Death_Knight 180 32
 Balor 262 35
 T_rex 136 33
+Ankylosaurus 68 18
 Ancient_White_Dragon 333 27
 Ancient_Brass_Dragon 297 20
 Ghoul 22 8
@@ -12,4 +13,5 @@ Vampire 144 17
 Yeti 51 21
 Zombie 22 4
 Human 11 4
- 
+NightMare 68 20
+Unicorn 67 15

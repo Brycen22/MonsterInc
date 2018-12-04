@@ -15,6 +15,7 @@ public:
     int HealthPoints(){return _HealthPoints;}
     int Damage(){return _Damage;}
     friend istream& operator>>(istream & is, Monster* & M);
+    friend ostream& operator<<(ostream & os, Monster * M);
 };
 
 #endif

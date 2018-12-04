@@ -14,9 +14,14 @@ istream& operator>>(istream & is, Monster* & M){
     return is; 
 }
 
+ostream& operator<<(ostream & os, Monster * M){
+    os << M->_Name << " " << M->_HealthPoints << " " << M->_Damage;
+    return os;
+}
+
 int main(){
     vector<Monster*> Monsters;
-    ifstream fin("//cs1/2022/bmartin22/CS-172-1/Final_project/Monsters.txt");
+    ifstream fin("//cs1/2022/bmartin22/CS-172-1/GitTest/Monsters.txt");
 
     if(fin.fail()){
         cout << "Monsters failed to show" << endl;
@@ -26,8 +31,8 @@ int main(){
     cout << "Code Start" << endl;
     Monster* M;
     while(fin >> M){
-        cout << M << endl;
         Monsters.push_back(M);
+        cout << M << endl;
     }
     cout << "Finished" << endl;
 }
