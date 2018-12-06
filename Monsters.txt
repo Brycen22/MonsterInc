@@ -1,17 +1,17 @@
-Basilisk 52 27
-Death_Knight 180 32
-Balor 262 35
-T_rex 136 33
-Ankylosaurus 68 18
-Ancient_White_Dragon 333 27
-Ancient_Brass_Dragon 297 20
-Ghoul 22 8
-Goblin 7 5
-WereBear 135 15
-Orc 15 9
-Vampire 144 17
-Yeti 51 21
-Zombie 22 4
-Human 11 4
-NightMare 68 20
-Unicorn 67 15
+Basilisk 52 27 15
+Death_Knight 180 32 20
+Balor 262 35 19
+T_rex 136 33 13
+Ankylosaurus 68 18 15
+Ancient_White_Dragon 333 27 20
+Ancient_Brass_Dragon 297 20 20
+Ghoul 22 8 12
+Goblin 7 5 15
+WereBear 135 15 11
+Orc 15 9 13
+Vampire 144 17 16
+Yeti 51 21 12
+Zombie 22 4 8
+Human 11 4 9
+NightMare 68 20 13
+Unicorn 67 15 12
